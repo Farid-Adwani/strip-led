@@ -7,6 +7,7 @@
 
 CRGB leds[NUM_LEDS];
 
+
 int verticalOffset = 1 ;
 
 int ledLayout[MATRIX_HEIGHT][MATRIX_WIDTH] = {
